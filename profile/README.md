@@ -1,6 +1,6 @@
 # 📚 GoLearn - Plataforma de Estudos
 
-![GoLearn Banner](https://via.placeholder.com/1000x300.png?text=GoLearn+-+Plataforma+de+Estudos)
+![GoLearn Banner](https://github.com/golearnapp/.github/blob/main/images/GoLearn%20Banner.png?raw=true)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow">
