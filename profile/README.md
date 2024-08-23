@@ -1,5 +1,3 @@
-# 📚 GoLearn - Plataforma de Estudos
-
 ![GoLearn Banner](https://github.com/golearnapp/.github/blob/main/images/GoLearn%20Banner.png?raw=true)
 
 <p align="center">
