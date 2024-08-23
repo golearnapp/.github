@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow">
-  <img src="https://img.shields.io/badge/Linguagens-JavaScript%20%7C%20HTML%20%7C%20CSS-informational">
   <img src="https://img.shields.io/badge/Contribuições-Bem%20Vindas-brightgreen">
 </p>
 
