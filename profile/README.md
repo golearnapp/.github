@@ -54,7 +54,7 @@ Contribuições são bem-vindas! Confira as [guidelines de contribuição](CONTR
 Quer saber mais ou tem alguma dúvida? Entre em contato!
 
 - [Email](mailto:gabrielficciobotan@gmail.com)
-- [LinkedIn](https://linkedin.com/in/gabrielficciobotan@gmail.com)
+- [LinkedIn](https://linkedin.com/in/gabrielficciobotan)
 
 <p align="center">
   Feito com ❤️ pela equipe GoLearn.
